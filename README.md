@@ -7,12 +7,15 @@
 <br>
 [ Coffee on 8th ] was created using:
 
-- Visual Studio Code
 - HTML
 - CSS
 - Bootstrap
+- PHP
+- SQL
+- MySQL
 - Unsplash
 - Vector Icons
+- Visual Studio Code
 
 <br>
 <br>
@@ -23,11 +26,6 @@
 <br>
 <br>
 ![](images/co82.png)
-<br>
-<br>
-<br>
-<br>
-![](images/co83.png)
 <br>
 <br>
 <br>
@@ -74,3 +72,7 @@
 <br>
 <br>
 ![](images/co95.png)
+<br>
+<br>
+<br>
+![](images/co8login.png)
