@@ -1,7 +1,5 @@
 [ Coffee on 8th ]
 
-![](images/co87.jpg)
-
 <br>
 <br>
 <br>
