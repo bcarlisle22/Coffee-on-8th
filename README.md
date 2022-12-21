@@ -1,6 +1,4 @@
 [ Coffee on 8th ]
-
-<br>
 <br>
 <br>
 [ Coffee on 8th ] was created using:
@@ -15,6 +13,7 @@
 - Vector Icons
 - Visual Studio Code
 
+![](images/c80.jpg)
 <br>
 <br>
 
