@@ -1,0 +1,410 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display'; 
+
+}
+
+/*media queries*/
+
+
+
+@keyframes transitionIn{
+    from{ 
+        opacity: 0;
+        transform: rotateX(-10deg);
+    }
+    to{
+        opacity: 1;
+        transform: rotateX(0);
+    }
+}
+/*navbar*/
+#navigation{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.navbar{
+    border-bottom: 1px solid rgb(41, 40, 40);
+    
+}
+.navbar .navbar-nav .nav-link{
+    font-weight: 800;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: #7E5109;
+}
+
+.navbar .container .navbar-toggler{
+    border: none;
+
+}
+/*home*/
+
+
+/*top picture*/
+
+section{
+    padding-top: 50px;
+}
+#top{
+    min-height: 120vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/coffeeon8th.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    animation: transitionIn 0.75s;
+    margin-bottom: 1%;
+}
+
+#top h1{
+    color: white;
+    
+}
+/*content*/
+#frontbox{
+    border: none
+}
+#homebox {
+   padding-top: 30%;
+   
+}
+
+#homebox button:hover{
+    color: black;
+    background-color: white;
+}
+/*footer*/
+
+
+
+.footer{
+    background-color: black;
+    position: sticky;
+    bottom: 0;
+    color: white;
+    
+}
+
+.row{
+    text-align: center;
+
+}
+
+footer h1{
+    color:white;
+    font-size: 150%;
+    margin-top: 5%;
+}
+footer p{
+    color: white;
+    font-size: 80%;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 80%;
+}
+
+footer h1{
+    font-size: 85%;
+}
+
+.footer-links a:hover{
+    color:#7E5109;
+}
+/*--------------------------------------------------MENU------------------------------------------------------*/
+#menutop{
+    min-height: 120vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/pourmilkcoffee.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    animation: transitionIn 0.75s;
+}
+
+#menutop h1{
+    color: white;
+    animation: transitionIn 0.75s;
+}
+
+/*menu content*/
+
+
+#menu-content {
+    animation: transitionIn 0.75s;
+}
+.text{
+    margin: 3%;
+    border: none;
+    display: inline;
+}
+
+/*--------------------------------------------------OUR COMPANY------------------------------------------------------*/
+#cotop{
+    min-height: 120vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/caferegister.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    animation: transitionIn 0.75s;
+}
+#cotop h1{
+    color: white;
+    animation: transitionIn 0.75s;
+}
+.text-center p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.text-center{
+    animation: transitionIn 0.75s;
+}
+.text-center h1{
+    padding-top: 10%;
+}
+.text-center-two{
+    animation: transitionIn 0.75s;
+}
+
+/*3rd paragraph*/
+
+.text-center-three{
+    animation: transitionIn 0.75s;
+}
+.text-center-three { 
+    margin-bottom: 10%;
+}
+
+#buttonco:hover{
+    background-color: white;
+    color: black;
+}
+
+.addrss{
+    display: flex;
+    margin-bottom: 5%;
+}
+.addrss h1{
+    margin-left: 5%;
+    margin-top: 7%;
+    font-size: 25px;
+}
+.addrss p{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+ #phonen{
+     color: grey;
+ }
+
+ #phonen:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/*--------------------------------------------------CAREERS------------------------------------------------------*/
+#careerstop{
+    min-height: 120vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/barista.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    animation: transitionIn 0.75s;
+}
+
+#careerstop h1{
+    color: white;
+    animation: transitionIn 0.75s;
+}
+.car-content{
+    animation: transitionIn 0.75s;
+    margin: 5%;
+}
+.car-content h1{
+    text-align: center;
+    font-weight: 400;
+    padding-top: 5%;
+    
+}
+.car-content p{
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+.card-title{
+    text-align: center;
+}
+
+#careers-one{
+    animation: transitionIn 0.75s;
+    margin-bottom: 10%;
+}
+#careers-one  h1, p{
+   text-align: center;
+
+}
+
+.career-text p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.career-text p a{
+    color: black;
+}
+.career-text p a:visited{
+    color: black;
+}
+/*login form*/
+
+
+/* login form */
+
+
+
+form{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+    background-color: black;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6));
+    width: 30%;
+    margin-left: 35%;
+}
+
+.inputf input{
+    margin: 3%;
+}
+
+.form-button{
+    margin: 5%;
+}
+
+.go-log a{
+    color: grey;
+    text-decoration: none;
+}
+.bottom-login a{
+    color: grey;
+    text-decoration: none;
+}
+
+.bottom-login a:hover{
+    color: white;
+}
+.go-login{
+    padding-top: 5%;
+}
+
+#tandc a{ 
+    color: white;
+}
+
+/*media queries*/
+
+@media screen and (max-width:1200px){
+    form{
+        width: 60%;
+        margin-left: 20%;
+    }
+}
+@media screen and (max-width:992px){
+    form{
+        width: 60%;
+        margin-left: 20%;
+    }
+    
+    .text-center {
+        padding-left: 7px;
+        padding-right: 7px;
+        font-size: 15px;
+    }
+    .text-center h1{
+        font-size: 25px;
+    }
+
+    .car-content p{
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 14px;
+    }
+    .career-text p{
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 14px;
+    }
+}
+
+
+@media screen and (max-width: 768px){
+    form{
+        width: 70%;
+    }
+    #homebox{
+        padding-top: 5%;
+    }
+    .text-center {
+        padding-left: 5px;
+        padding-right: 5px;
+        font-size: 10px;
+    }
+    .text-center h1{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 576px){
+    form{
+        width: 70%;
+    }
+    .text-center {
+        padding-left: 5px;
+        padding-right: 5px;
+        font-size: 10px;
+    }
+    .text-center h1{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 450px){
+    form{
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 430px){
+    form{
+        width: 100%;
+        margin-left: 5px;
+    }
+    .text-center {
+        padding-left: 5px;
+        padding-right: 5px;
+        font-size: 10px;
+    }
+    .text-center h1{
+        font-size: 15px;
+    }
+    .car-content p{
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 12px;
+    }
+    .career-text p{
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 12px;
+    }
+}
