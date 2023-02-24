@@ -1,7 +1,7 @@
-[ Coffee on 8th ]
+Coffee on 8th
 <br>
-<br>
-[ Coffee on 8th ] was created using:
+<br> 
+Coffee on 8th  was created using:
 
 - HTML
 - CSS
