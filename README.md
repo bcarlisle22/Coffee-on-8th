@@ -9,77 +9,24 @@ Coffee on 8th  was created using:
 - PHP
 - SQL
 - MySQL
-- Unsplash
-- Vector Icons
-- Visual Studio Code
 
-![](images/c80.jpg)
-<br>
-<br>
+![](images/CHOME-1.jpg)
+![](images/CHOME-2.jpg)
+![](images/CHOME-3.jpg)
+![](images/CMENU-1.jpg)
+![](images/CMENU-2.jpg)
+![](images/CMENU-4.jpg)
+![](images/CMENU-5.jpg)
+![](images/CMENU-6.jpg)
+![](images/C-COMPANY1.jpg)
+![](images/CCOMPANY-2.jpg)
+![](images/CCOMPANY-3.jpg)
+![](images/CCOMPANY-4.jpg)
+![](images/CCAREERS-1.jpg)
+![](images/CCAREERS-2.jpg)
+![](images/CCAREERS-3.jpg)
+![](images/CCAREERS-4.jpg)
+![](images/CLOGIN.jpg)
+![](images/CSIGNUP.jpg)
 
-![](images/c81.jpg)
-<br>
-<br>
-<br>
-<br>
-![](images/c82.jpg)
-<br>
-<br>
-<br>
-<br>
-![](images/c83.jpg)
-<br>
-<br>
-<br>
-<br>
-![](images/c84.jpg)
-<br>
-<br>
-<br>
-<br>
-![](images/c85.jpg)
-<br>
-<br>
-<br>
-![](images/c86.jpg)
-<br>
-<br>
-<br>
-![](images/c87.jpg)
-<br>
-<br>
-<br>
-![](images/c88.jpg)
-<br>
-<br>
-<br>
-![](images/c89.jpg)
-<br>
-<br>
-<br>
-![](images/c90.jpg)
-<br>
-<br>
-<br>
-![](images/c91.jpg)
-<br>
-<br>
-<br>
-![](images/c92.jpg)
-<br>
-<br>
-<br>
-![](images/c93.jpg)
-<br>
-<br>
-<br>
-![](images/c94.jpg)
-<br>
-<br>
-<br>
-![](images/c95.jpg)
-<br>
-<br>
-<br>
-![](images/c96.jpg)
 
