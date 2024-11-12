@@ -14,9 +14,6 @@ Coffee on 8th is a website for a coffee shop built using HTML, CSS, Bootstrap, P
 FEATURES
 <br>
 <br>
-Charity Link: Provides a prominent link to St. Jude Children's Hospital, encouraging visitors to support the charity.
-<br>
-<br>
 Sign Up and Login Pages: Implements user authentication functionality with sign up and login pages, allowing users to create accounts and access personalized features.
 <br>
 <br>
@@ -27,6 +24,9 @@ Responsive Design: Ensures that the website is accessible and user-friendly on v
 <br>
 <br>
 Bootstrap Framework: Utilizes Bootstrap for front-end development, facilitating responsive layouts and streamlined design components.
+
+[Live Demo](https://coffeeon8th.netlify.app/)
+
 
 ![](images/CHOME-1.jpg)
 ![](images/CHOME-2.jpg)
